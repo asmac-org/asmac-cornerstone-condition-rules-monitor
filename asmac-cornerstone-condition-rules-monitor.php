@@ -2,7 +2,7 @@
 /*
    Plugin Name: ASMAC Cornerstone Condition Rules Monitor
    Description: Reports via mail if a Cornerstone condition rule is not found.
-   Version: 0.6
+   Version: 1.0
    Author: Jeff Kellem
    Author URI: https://slantedhall.com/
    License: BSD-2-Clause
